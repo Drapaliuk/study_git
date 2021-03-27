@@ -1,1 +1,0 @@
-const some = 'for test'
